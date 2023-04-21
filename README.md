@@ -21,6 +21,7 @@ les cales sont dispo en épaisseur de
 - 3mm
 - 4mm
 - 5mm
+
 rectangle original de 25x100 dispo pour vous faire vos cales à vos mesures
 
 ## fichiers
